@@ -1,0 +1,51 @@
+Student_ID,Name,Email,Phone,Course,Fee_Paid,City,Enrolled_Date,Email_Valid
+STU1001,Manoj K,manojk@gmail.com,9876543210,Python,0,Chennai,2025-05-23,False
+STU1002,Priya S,priya.s@yahoo.com,98765,Machine Learning,0,Coimbatore,2025-05-06,True
+STU1003,Ravi Kumar,ravikumar@,9123456789,Python,0,Madurai,2025-02-19,False
+STU1004,Anitha R,anitha@gmail.com,9000011111,ML,0,Chennai,2025-04-05,True
+STU1005,Karthik,karthik123,,Python,0,,2025-02-08,False
+STU1006,Deepa M,deepam@gmail.com,8123456789,Data Science,0.00,Salem,2025-03-09,True
+STU1007,Suresh T,suresht@,7654321098,Python,0,Trichy,2025-01-14,False
+STU1008,Kavitha,kavitha99@gmail.com,9988776655,Machine Learning,0,Chennai,2025-01-15,True
+STU1009,Rajesh KK,rajeshkk@gmail.com,8877665544,Python,0,Coimbatore,2025-05-15,False
+STU1010,Nithya R,nithyar@yahoo.com,9765432109,Data Science,0,Madurai,2025-04-25,True
+STU1011,Arun P,arunp@gmail.com,7788990011,Python,0,Chennai,2025-06-17,True
+STU1012,Meena D,meenad@,,ML,0,Salem,2025-02-21,False
+STU1013,Santhosh V,santhoshv@gmail.com,9900112233,Python,0,Trichy,2025-01-26,True
+STU1014,Lakshmi,lakshmi@gmail.com,8811223344,Data Science,0,Chennai,2025-03-07,False
+STU1015,Vijay S,vijays@yahoo.com,9922334455,Machine Learning,0.00,Coimbatore,2025-04-24,True
+STU1016,Pooja N,poojan@gmail.com,9090909090,Python,0,,2025-02-16,True
+STU1017,Dinesh R,dinesh.r@,8080808080,Data Science,0,Madurai,2025-02-23,False
+STU1018,Saranya,saranya22@gmail.com,,Python,0,Chennai,2025-02-11,True
+STU1019,Bala K,balak@gmail.com,7070707070,Machine Learning,0,Salem,2025-06-12,False
+STU1020,Revathi M,revathim@yahoo.com,9191919191,Machine Learning,0,Trichy,2025-06-12,True
+STU1021,Muthu S,muthus@gmail.com,8282828282,Python,0,Chennai,2025-02-24,True
+STU1022,Geetha,geetha@domain.com,9393939393,Data Science,0,Coimbatore,2025-05-08,False
+STU1023,Prasanth J,prasanthj@gmail.com,7474747474,Python,0,Madurai,2025-03-05,True
+STU1024,Divya P,divyap@yahoo.com,8585858585,Machine Learning,0,Chennai,2025-06-10,True
+STU1025,Senthil K,senthilk@gmail.com,,Python,0,Trichy,2025-05-15,False
+STU1026,Janaki R,janakir@gmail.com,9696969696,Data Science,0.00,Salem,2025-02-05,True
+STU1027,Ramesh M,rameshm@,7878787878,Python,0.00,Chennai,2025-03-01,False
+STU1028,Usha D,ushad@gmail.com,8989898989,Machine Learning,0,Madurai,2025-04-21,True
+STU1029,Gopal V,gopalv@yahoo.com,9010101010,Python,0,Coimbatore,2025-01-12,False
+STU1030,Thenmozhi,thenmozhi@gmail.com,8121212121,Machine Learning,0.00,,2025-04-13,True
+STU1031,Arjun C,arjunc@gmail.com,7232323232,Python,0,Trichy,2025-01-15,True
+STU1032,Swetha L,swethal@,,Data Science,0,Chennai,2025-05-26,False
+STU1033,Naveen B,naveenb@gmail.com,9343434343,Python,0,Salem,2025-06-23,True
+STU1034,Mala S,malas@yahoo.com,8454545454,Machine Learning,0,Chennai,2025-03-21,True
+STU1035,Karthi P,karthip@gmail.com,7565656565,Python,0,Coimbatore,2025-02-14,False
+STU1036,Suganya T,suganyt@gmail.com,9676767676,Data Science,0,Madurai,2025-04-10,True
+STU1037,Venkat R,venkatr@,8787878787,Python,0,Trichy,2025-02-12,False
+STU1038,Indira K,indirak@gmail.com,,Machine Learning,0,Chennai,2025-06-01,True
+STU1039,Mohan J,mohanj@yahoo.com,9898989898,Python,0,Salem,2025-01-23,True
+STU1040,Dharani S,dharanis@gmail.com,7909090909,Data Science,0,,2025-04-19,True
+STU1041,Kishore M,kishorem@gmail.com,8010101010,Machine Learning,0,Chennai,2025-02-21,True
+STU1042,Padma V,padmav@,9121212121,Python,0.00,Coimbatore,2025-03-22,False
+STU1043,Balaji T,balajit@gmail.com,7232323232,Data Science,0,Madurai,2025-03-17,True
+STU1044,Rekha N,rekhan@yahoo.com,,Python,0,Chennai,2025-02-05,True
+STU1045,Selvam K,selvamk@gmail.com,8343434343,Machine Learning,0,Salem,2025-02-28,False
+STU1046,Chitra R,chitrar@gmail.com,9454545454,Machine Learning,0,Trichy,2025-03-15,True
+STU1047,Ganesh P,ganeshp@,7565656565,Python,0,Chennai,2025-06-27,False
+STU1048,Latha S,lathas@gmail.com,8676767676,Data Science,0.00,Coimbatore,2025-04-04,True
+STU1049,Suresh B,sureshb@yahoo.com,,Python,0,Madurai,2025-04-20,False
+STU1050,Ammu K,ammuk@gmail.com,9787878787,Machine Learning,0,Chennai,2025-02-13,True
