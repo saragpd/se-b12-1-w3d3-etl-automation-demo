@@ -1,0 +1,18 @@
+Clean this student enrollment row and return ONLY a JSON object.
+
+Row data: {{ JSON.stringify($json) }}
+
+Rules:
+- Name: Title Case (Manoj K)
+- Email: if invalid set INVALID_EMAIL
+- Phone: if less than 10 digits set MISSING
+- Course: only Python or Machine Learning or Data Science
+- Fee_Paid: yes/YES = true, no/NO = false
+- City: Title Case, empty = UNKNOWN
+- Enrolled_Date: convert to YYYY-MM-DD
+
+Return ONLY raw JSON. No explanation. No markdown.
+
+"{\n  \"Student_ID\": \"STU1001\",\n  \"Name\": \"Manoj K\",\n  \"Email\": \"INVALID_EMAIL\",\n  \"Phone\": \"9876543210\",\n  \"Course\": \"Python\",\n  \"Fee_Paid\": true,\n  \"City\": \"Chennai\",\n  \"Enrolled_Date\": \"2025-05-23\"\n}"
+
+I want to clean and parse the data - i have 50 items - this n8n ai ouput- give me the jave script code
